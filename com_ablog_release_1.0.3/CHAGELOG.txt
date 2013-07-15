@@ -1,0 +1,43 @@
+/**
+ * Changelog
+ *
+ * @package         aBlog
+ * @version         1.0.1
+ *
+ * @author          Christoph Wardzinski <info@webhomeschool.de>
+ * @link            http://www.webhomeschool.de
+ * @copyright       Copyright © 2013 Webhomeschool All Rights Reserved
+ * @license         http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ */
+
+/**
+ * + Added
+ * ! Removed
+ * ^ Changed
+ * # Fixed
+ */
+ 
+ 04.06.2013 : V1.0.1
+ ^ Updated Translations: de -DE
+ ^ Site Controller
+ ^ Posts Frontend
+ ^ Post Controller
+ # Fixed issue with Frontend Posts Menu
+ # Fixed issue with Frontend 
+ # Fixed issue with posts default.php
+ ^ Comment and Comments Fields show the ready Fields
+   asks for needed Fields
+   
+ 22.06.2013
+ #Fixed posts.css background image
+ 
+ 26.06.2013 :V1.0.2
+  #Fixed the strict mode messages
+ 28.06.2013
+ #Fixed Editor display in Hator Template
+ 29.06.2013
+ #Fixed Editor display in Hator Template
+ 
+ 11.07.2013 V1.0.3
+ #Fixed video support
+  
